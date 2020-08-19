@@ -1,0 +1,7 @@
+.about-me {
+  text-align: center;
+}
+.withbg {
+  background-image: url(../../bg1.jpg);
+  background-size: cover;
+}
